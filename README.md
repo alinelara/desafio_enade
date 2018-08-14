@@ -38,5 +38,3 @@ Composer install
 ## Authors
 
 * **Aline Lara** - *Initial work* 
-
-See also the list of [contributors](https://github.com/alinelara/desafio_enade.git/contributors) who participated in this project.
