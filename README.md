@@ -32,11 +32,11 @@ Composer install
 ## Powered by
 
 * [Framework Yii2.0](https://www.yiiframework.com/doc/guide/2.0/pt-br/start-installation)
-* [PHP 5.6.´*](http://php.net/)
-* [MySql 5.6.´*](https://www.mysql.com/downloads/)
+* [PHP 5.6.Â´*](http://php.net/)
+* [MySql 5.6.Â´*](https://www.mysql.com/downloads/)
 
 ## Authors
 
 * **Aline Lara** - *Initial work* 
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/alinelara/desafio_enade.git/contributors) who participated in this project.
